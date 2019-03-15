@@ -3,7 +3,7 @@ using namespace std;
 
 class LinkedList{
 public:
-    Chunk* head;
+    Chunk *head;
     int length;
 
     //Constructor
